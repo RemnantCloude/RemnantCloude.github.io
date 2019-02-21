@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[生活日志]]></title>
+    <url>%2F2019%2F02%2F21%2FLifelog%2F</url>
+    <content type="text"><![CDATA[记录生活日常，包括但不限于吐槽、倒垃圾、摘抄、分享经验 （-1s) 和感悟 2019.2.18能哭的地方，只有厕所和爸爸的怀里。 冈崎汐CLANNAD 2018.12.10——我们并非神的道具。而是有生命、具备意识的存在。即使如此，依然可能会遭逢超越人类智慧且无法违抗的命运。这种时候，你会如何行动呢？纵然置身于极限状态下，仍抱持着意识与尊严，此姿态堪称美妙。我向来希望能成为那样的人，而在经过数十年后的现在，还是不禁会对“她”怀抱敬畏之意。 亚特鲁·克里斯汀「盖提海航行记」序文 ███████年轻人好好撸管，不要做白日梦了。 天草筱妄想学生会]]></content>
+      <categories>
+        <category>日志</category>
+      </categories>
+      <tags>
+        <tag>log</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[技术日志]]></title>
+    <url>%2F2019%2F02%2F21%2FTechlog%2F</url>
+    <content type="text"><![CDATA[记录自己的技术成长过程 ——我逐渐意识到作为一个死肥宅是有极限的——你到底想说什么！——我不做死肥宅了]]></content>
+      <categories>
+        <category>日志</category>
+      </categories>
+      <tags>
+        <tag>log</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[网站日志]]></title>
+    <url>%2F2019%2F02%2F13%2FWeblog%2F</url>
+    <content type="text"><![CDATA[记录对网站的修改 待完成工作 修改网页图标 修改底部的 icon 设置文档的标签和分类 网站备案 设置pixiv网站地址 2019.2.20修改了头像 添加知识共享4.0协议 添加友情链接 2019.2.14增加基于leancloud的文章阅读量统计功能 2019.2.13用hexo作为博客系统，使用next主题，在本地成功打开网页 等待21号返校后备案 2019.2.11在阿里云上购买域名 2019.2.10在阿里云上购买服务器]]></content>
+      <categories>
+        <category>日志</category>
+      </categories>
+      <tags>
+        <tag>log</tag>
+      </tags>
+  </entry>
+</search>
